@@ -1,19 +1,79 @@
-- category: 分类名称
-  icon: fa-folder # 分类的图标，使用 FontAwesome 图标
+- category: 免费资产
+  icon: fa-icons # 分类的图标，使用 FontAwesome 图标
   items:
-    - name: 书签名称
-      link: 链接地址 # 从 url 改为 link
-      description: 书签描述
-      image: 图标链接 # 从 icon 改为 image，用于显示网站图标
- 
-- category: 工具
-  icon: fa-tools # 工具分类的图标
+    - name: Kenny 的免费游戏资产
+      link: https://kenney.nl/
+      description: 大量免费2D和3D游戏美术素材包
+      image: https://kenney.nl/favicon.ico
+    - name: Kevin MacLeod 的无版权音乐
+      link: https://incompetech.com/music/royalty-free/music.html
+      description: 可按流派及情绪进行搜索
+      image: https://incompetech.com/favicon.ico
+
+- category: 游戏引擎
+  icon: fa-tools
   items:
-    - name: ChatGPT
-      link: https://chat.openai.com # 书签链接地址
-      description: OpenAI 的 AI 对话助手
-      image: https://chat.openai.com/favicon.ico # 网站图标地址
-    - name: Claude
-      link: https://www.anthropic.com/
-      description: Anthropic 的 AI 对话助手
-      image: https://www.anthropic.com/favicon.ico
+    - name: Unity
+      link: https://unity.com
+      description: 目前使用量最大的游戏引擎
+      image: /images/unity-favicon.ico
+    - name: Unreal Engine
+      link: https://www.unrealengine.com/zh-CN
+      description: 强大的3D游戏引擎，擅长高质量画面表现
+      image: https://www.unrealengine.com/cosmos/static/favicons/favicon.svg
+    - name: Godot Engine
+      link: https://godotengine.org/
+      description: 新生代开源游戏引擎
+      image: https://godotengine.org/assets/favicon.svg
+    - name: Game Maker
+      link: https://gamemaker.io/zh-CN
+      description: 老牌2D游戏引擎
+      image: /images/gamemaker-favicon.png
+
+- category: GameJam 官网
+  icon: fa-earth-asia
+  items:
+    - name: Global Game Jam
+      link: https://globalgamejam.org/
+      description: 全球最大的线下 48 小时极限开发活动
+      image: https://globalgamejam.org/themes/custom/ggj_v4/favicon.ico
+    - name: GMTK Game Jam
+      link: https://gmtk.itch.io/
+      description: 全球最大的线上 48 小时极限开发活动
+      image: https://yt3.googleusercontent.com/XS_gpXd-f-bUwW5dr0kyw8btfpj6DZLPaXAUIi9ukwHMJJPwBloGjF-AWZ4QAcIv572FEHGG=w0
+    - name: CiGA Game Jam
+      link: https://www.ciga.me/gamejams
+      description: 华语游戏圈规模最大的线下 48 小时极限开发活动
+      image: https://www.ciga.me/favicon.ico
+    - name: Ludum Dare
+      link: https://ludumdare.com/
+      description: 老牌线上 48 小时极限开发活动
+      image: https://ludumdare.com/favicon.ico
+    - name: 爱满星空 公益Game Jam
+      link: https://www.gmhub.com/jams/gamecarejam2025
+      description: 以社会化的内容作为主题开展的极限开发活动
+      image: /images/gcj-icon.png
+
+- category: 竞赛官网
+  icon: fa-trophy
+  items:
+    - name: 中国大学生游戏开发创作大赛
+      link: https://www.ugdap.com/cusga
+      description: 国内影响力和认知度最高的大学生游戏开发赛事活动
+      image: https://www.ugdap.com/icon.ico
+    - name: TapTap 聚光灯计划
+      link: https://spotlight.taptap.cn/
+      description: 旨在发掘和扶持中小型团队
+      image: https://www.taptap.cn/favicon.ico
+
+- category: 行业资料
+  icon: fa-file-lines
+  items:
+    - name: 游鲨游戏行业资料文档
+      link: https://www.kdocs.cn/l/ct4bcS9xHD3K
+      description: 查询游戏公司及校招信息
+      image: https://pic1.zhimg.com/v2-74bfb583808ce56c2f7bc38d69938ed5_xll.jpg
+    - name: 独立游戏行业百科
+      link: https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=BB08J2
+      description: 腾讯游戏学堂旗下GWB独立游戏孵化器整理的独立游戏行业资料
+      image: https://gameinstitute.qq.com/favicon.ico
