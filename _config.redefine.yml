@@ -212,6 +212,9 @@ navbar:
     常用链接: #取名随意
       icon: fa-solid fa-tools #图标
       path: /bookmarks/
+    相册:
+      icon: fa-solid fa-image #图标
+      path: /masonry/
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
