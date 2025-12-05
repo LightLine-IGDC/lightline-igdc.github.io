@@ -209,7 +209,7 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    Tools: #取名随意
+    常用链接: #取名随意
       icon: fa-solid fa-tools #图标
       path: /bookmarks/
     # Archives: 
