@@ -3,12 +3,16 @@
   items:
     - name: Kenny 的免费游戏资产
       link: https://kenney.nl/
-      description: 大量免费2D和3D游戏美术素材包
+      description: 超过200个免费游戏美术素材包，包括2D和3D
       image: https://kenney.nl/favicon.ico
     - name: Kevin MacLeod 的无版权音乐
       link: https://incompetech.com/music/royalty-free/music.html
-      description: 可按流派及情绪进行搜索
+      description: 超过2000首无版权音乐，可按流派及情绪进行搜索
       image: https://incompetech.com/favicon.ico
+    - name: freesound.org
+      link: https://freesound.org/
+      description: 超过70万个免费音效，支持按标签进行搜索
+      image: https://freesound.org/favicon.ico
 
 - category: 游戏引擎
   icon: fa-tools
