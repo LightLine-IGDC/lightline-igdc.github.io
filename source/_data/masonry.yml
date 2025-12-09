@@ -1,11 +1,23 @@
-- image: /images/masonry/KA3A1438 (1).webp
-  title: 标题1
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod
+- image: /images/masonry/20240126_GGJ2024_马了个戏_开发.webp
+  title: GGJ2024 马了个戏 开发
+  description: 小组成员正在进行开发前的讨论
  
-- image: /images/masonry/KA3A1486.webp
-  title: 标题2
-  description: Lorem ipsum dolor sit amet
+- image: /images/masonry/20240128_GGJ2024_快乐催化师_路演.webp
+  title: GGJ2024 快乐催化师 路演
+  description: 社团成员在台上展示自己的游戏
  
-- image: /images/masonry/KA3A1561.webp
-  title: 标题3
-  description: Lorem ipsum dolor sit amet
+- image: /images/masonry/20240128_GGJ2024_马了个戏_路演.webp
+  title: GGJ2024 马了个戏 路演
+  description: 社团成员在台上展示自己的游戏
+ 
+- image: /images/masonry/20240128_GGJ2024_马了个戏_试玩.webp
+  title: GGJ2024 试玩
+  description: 活动结束后，现场路人正在试玩社团成员的作品
+ 
+- image: /images/masonry/20240322_地下室_合照.webp
+  title: 地下室合照
+  description: 社团成员在第一个线下场地进行合照
+ 
+- image: /images/masonry/20240921_百团大战.webp
+  title: 24年百团大战
+  description: 社团成员正在向路过的同学展示社团的游戏作品
